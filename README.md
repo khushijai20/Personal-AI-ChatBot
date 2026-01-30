@@ -1,5 +1,9 @@
 # Personal AI ChatBot
 
+<div align="center">
+  <img src="assets/banner.png" alt="Personal AI ChatBot Banner" width="500" />
+</div>
+
 A modern, production-ready conversational AI application built with Streamlit and Google's Generative AI. This project demonstrates best practices in creating interactive AI-powered interfaces with a polished user experience.
 
 ## Overview
